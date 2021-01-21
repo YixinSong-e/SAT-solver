@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1585360343 source:d:\syx\程序设计综合课程设计任务及指导学生包\mysolversat\sat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cnf.h"
+	"takudo.h"
+	"takudoGeneretor.h"
+
+1585360218 d:\syx\程序设计综合课程设计任务及指导学生包\mysolversat\sat\cnf.h
+
+1585360270 source:d:\syx\程序设计综合课程设计任务及指导学生包\mysolversat\sat\cnf.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cnf.h"
+
+1584613868 d:\syx\程序设计综合课程设计任务及指导学生包\mysolversat\sat\takudo.h
+
+1584614286 source:d:\syx\程序设计综合课程设计任务及指导学生包\mysolversat\sat\takudo.c
+	<stdio.h>
+	<stdlib.h>
+	"takudo.h"
+
+1584613570 source:d:\syx\程序设计综合课程设计任务及指导学生包\mysolversat\sat\takudogeneretor.c
+	<stdio.h>
+	<stdlib.h>
+	"takudo.h"
+	"takudoGeneretor.h"
+	"cnf.h"
+	<time.h>
+
+1582277161 d:\syx\程序设计综合课程设计任务及指导学生包\mysolversat\sat\takudogeneretor.h
+
+1585373307 source:d:\syx\coursedesign\mysolversat\sat\takudo.c
+	<stdio.h>
+	<stdlib.h>
+	"takudo.h"
+
+1584613868 d:\syx\coursedesign\mysolversat\sat\takudo.h
+
+1584613570 source:d:\syx\coursedesign\mysolversat\sat\takudogeneretor.c
+	<stdio.h>
+	<stdlib.h>
+	"takudo.h"
+	"takudoGeneretor.h"
+	"cnf.h"
+	<time.h>
+
+1582277161 d:\syx\coursedesign\mysolversat\sat\takudogeneretor.h
+
+1585360218 d:\syx\coursedesign\mysolversat\sat\cnf.h
+
+1585388479 source:d:\syx\coursedesign\mysolversat\sat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cnf.h"
+	"takudo.h"
+	"takudoGeneretor.h"
+
+1585487619 source:d:\syx\coursedesign\mysolversat\sat\cnf.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cnf.h"
+
+1585362581 source:d:\syx\coursedesign\mysolversat\sat - 副本\cnf.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cnf.h"
+
+1585360218 d:\syx\coursedesign\mysolversat\sat - 副本\cnf.h
+
+1585373307 source:d:\syx\coursedesign\mysolversat\sat - 副本\takudo.c
+	<stdio.h>
+	<stdlib.h>
+	"takudo.h"
+
+1584613868 d:\syx\coursedesign\mysolversat\sat - 副本\takudo.h
+
+1584613570 source:d:\syx\coursedesign\mysolversat\sat - 副本\takudogeneretor.c
+	<stdio.h>
+	<stdlib.h>
+	"takudo.h"
+	"takudoGeneretor.h"
+	"cnf.h"
+	<time.h>
+
+1582277161 d:\syx\coursedesign\mysolversat\sat - 副本\takudogeneretor.h
+
